@@ -1,0 +1,2 @@
+include ':app', ':paintshop', ':app2', ':app22', ':bitmap', ':miniphotoshop'
+rootProject.name='GraphicsEx'
